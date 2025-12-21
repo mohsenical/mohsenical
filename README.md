@@ -14,7 +14,7 @@ const response = {
     birthDay: "16 May",
     location: "Iran / Urmia",
     dev: "FrontEnd",
-    skills: ["HTML/CSS", "tailwind", "JS", "React", "Next", ...]
+    skills: ["HTML/CSS", "BootStrap", "tailwind", "JS", "Ts" "React", ...]
   }
 }
 ```
