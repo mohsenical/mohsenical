@@ -13,7 +13,7 @@ const response = {
     name: "Mohsen Peighami",
     birthDay: "16 May",
     location: "Iran / Urmia",
-    dev: "FrontEnd, BackEnd",
+    dev: "FrontEnd",
     skills: ["HTML/CSS", "BootStrap", "tailwind", "JS", "Ts" "React", ...],
     disc: "I have been programming for 4 years. And during this time I gained a lot of experience in (UI/UX)"
   }
