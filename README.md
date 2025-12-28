@@ -14,7 +14,11 @@ const response = {
     birthDay: "16 May",
     location: "Iran / Urmia",
     dev: "MERN Stack",
-    skills: ["HTML/CSS", "BootStrap", "tailwind", "JS", "Ts" "React", ...],
+    skills: {
+      id: 1,
+      fronEnd: ["HTML/CSS", "BootStrap", "tailwind", "JS", "Ts" "React", ...],
+      backEnd: ["node,js", "express.js", "mongoDb", "mongoose"]
+    },
     disc: "I have been programming for 4 years. And during this time I gained a lot of experience in (UI/UX)"
   }
 }
