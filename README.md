@@ -13,7 +13,7 @@ const response = {
     name: "Mohsen Peighami",
     birthDay: "16 May",
     location: "Iran / Urmia",
-    dev: "MERN Stack (full stack)",
+    dev: "MERN Stack",
     skills: {
       id: 1,
       fronEnd: ["HTML/CSS", "BootStrap", "tailwind", "JS", "Ts" "React", ...],
