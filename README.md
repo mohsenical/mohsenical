@@ -15,6 +15,7 @@ const response = {
     location: "Iran / Urmia",
     dev: "MERN Stack",
     skills: {
+      id: 1,
       fronEnd: ["HTML/CSS", "BootStrap", "tailwind", "JS", "Ts" "React", ...],
       backEnd: ["node,js", "express.js", "mongoDb", "mongoose"]
     },
