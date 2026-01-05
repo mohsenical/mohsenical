@@ -8,7 +8,7 @@
 //About Me ....
 
 const response = {
-  status: 201,
+  status: 202,
   data: {
     name: "Mohsen Peighami",
     birthDay: "16 May",
