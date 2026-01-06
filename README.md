@@ -2,7 +2,7 @@
 
 <img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
 
-<hr />
+<br />
 
 ```javascript
 //About Me ....
@@ -17,7 +17,7 @@ const response = {
     skills: {
       id: 1,
       fronEnd: ["HTML/CSS", "BootStrap", "tailwind", "JS", "React", ...],
-      backEnd: ["node,js", "express.js", "mongoDb", "mongoose"]
+      backEnd: ["node,js", "express.js", "mongoDb", "mongoose", ...]
     },
     disc: "I have been programming for 4 years. And during this time I gained a lot of experience in (UI/UX)"
   }
