@@ -4,10 +4,6 @@
 
 <br />
 
-<p align="center">
-  <img src="./portrait_ascii_reveal.gif" width="600" alt="Animated ASCII portrait">
-</p>
-
 
 ```javascript
 //About Me ....
