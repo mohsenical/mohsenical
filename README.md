@@ -1,115 +1,103 @@
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=220&section=header&text=MOHSEN%20PEIGHAMI&fontSize=43&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%2F%2F%20SYSTEM%20001&descSize=13&descAlignY=58&animation=fadeIn" />"ENGINEERING DIGITAL EXPERIENCES"
 
+I BUILD. I BREAK. I REBUILD.
 
-<div align="center">
+""GitHub" (https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/mohsenical)
+""Repositories" (https://img.shields.io/badge/REPOSITORIES-181818?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/mohsenical?tab=repositories)
 
-# MOHSEN PEIGHAMI
+</div>---
 
-### FULL-STACK WEB DEVELOPER
+01 / IDENTITY
 
-`DESIGN` · `DEVELOP` · `CREATE`
+$ whoami
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=header" width="100%" />
+Name       : Mohsen Peighami
+Role       : Full-Stack Developer
+Core       : JavaScript Ecosystem
+Frontend   : React / Next.js
+Backend    : Node.js / Express
+Databases  : MongoDB / MySQL
+Mindset    : Build > Learn > Improve
+Status     : Always Evolving...
 
-**Building modern digital experiences with clean code and creative thinking.**
+I'm a Full-Stack Web Developer passionate about engineering modern digital products.
 
-<br />
+My focus is on combining elegant interfaces, interactive experiences, efficient backend architectures, and well-structured databases to build reliable web applications.
 
-<a href="https://github.com/mohsenical">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://github.com/mohsenical?tab=repositories">
-<img src="https://img.shields.io/badge/PROJECTS-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-## ABOUT ME
-
-I'm **Mohsen Peighami**, a Full-Stack Web Developer passionate about creating modern, scalable, and user-friendly web applications.
-
-I work across the entire web development stack, from crafting elegant interfaces to building powerful backend architectures.
-
-- Full-Stack Web Development
-- Modern Frontend Architecture
-- RESTful API Development
-- Database Design & Management
-- Interactive Web Experiences
-- Clean Code & Problem Solving
+«Great software is not just written. It's carefully engineered.»
 
 ---
 
-## FRONTEND DEVELOPMENT
+02 / FRONTEND ENGINEERING
 
-<p align="left">
+Crafting interfaces. Creating experiences.
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs,threejs,gsap&theme=dark" />
-</p>
+</p>FRONTEND ECOSYSTEM
 
-### FRONTEND PACKAGES
-
-<p>
-<img src="https://img.shields.io/badge/Yup-000000?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Swiper-000000?style=flat-square&logo=swiper&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Toastify-000000?style=flat-square&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Axios-000000?style=flat-square&logo=axios&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Hook_Form-000000?style=flat-square" />
-</p>
+Package| Purpose
+Yup| Schema Validation
+Swiper| Touch Sliders & Carousels
+React Toastify| Notifications
+Axios| HTTP Requests
+React Hook Form| Form Management
 
 ---
 
-## BACKEND DEVELOPMENT
+03 / BACKEND ENGINEERING
 
-<p align="left">
+Building systems behind the experience.
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
-</p>
+</p>BACKEND ECOSYSTEM
 
-### BACKEND PACKAGES
-
-<p>
-<img src="https://img.shields.io/badge/Sequelize-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/Zod-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/Multer-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/Bcrypt-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/Mongoose-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/Nodemailer-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/Dotenv-000000?style=flat-square" />
-</p>
+Package / Technology| Purpose
+Sequelize| SQL ORM
+Zod| Schema Validation
+Multer| File Upload
+JWT| Authentication
+Bcrypt| Password Hashing
+Mongoose| MongoDB ODM
+Nodemailer| Email Services
+Dotenv| Environment Configuration
+Node.js CLI| Command Line Tools
 
 ---
 
-## TOOLS & WORKFLOW
+04 / DEVELOPMENT ENVIRONMENT
 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman&theme=dark" />
-</p>
+</p>---
 
----
+05 / GITHUB ANALYTICS
 
-## GITHUB STATISTICS
+<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohsenical&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF" /><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsenical&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=AAAAAA" /><br/><img width="85%" src="https://streak-stats.demolab.com?user=mohsenical&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" /></div>---
 
-<div align="center">
+06 / DEVELOPER PHILOSOPHY
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohsenical&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF" />
+<div align="center">THINK DEEPER.
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsenical&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=AAAAAA" />
+WRITE CLEANER.
 
-<br />
+BUILD BETTER.
 
-<img width="80%" src="https://streak-stats.demolab.com?user=mohsenical&theme=black-ice&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<br/>"01 — SIMPLICITY"
 
-</div>
+"02 — PERFORMANCE"
 
----
+"03 — SCALABILITY"
 
-<div align="center">
+"04 — CONTINUOUS LEARNING"
 
-## LESS NOISE. MORE CODE.
+</div>---
 
-**Thanks for visiting my profile.**
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:000000&height=120&section=footer" />MOHSEN PEIGHAMI
 
-`© MOHSEN PEIGHAMI`
+"DESIGNED BY LOGIC. POWERED BY CREATIVITY."
+
+Thanks for exploring my digital workspace.
 
 </div>
