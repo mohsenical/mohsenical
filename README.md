@@ -13,8 +13,8 @@ const response = {
     dev: "MERN Stack",
     skills: {
       id: 1,
-      fronEnd: ["HTML/CSS", "BootStrap", "tailwind", "JS", "React", ...],
-      backEnd: ["node,js", "express.js", "mongoDb", "mongoose", ...]
+      fronEnd: ["HTML/CSS", "BootStrap", "Tailwind", "JS", "React", "Next", "Three.js"],
+      backEnd: ["node,js", "express.js", "mongoDb", "mongoose", "mySQL", "sequelize"]
     },
     disc: "I have been programming for 4 years. And during this time I gained a lot of experience in (UI/UX)"
   }
