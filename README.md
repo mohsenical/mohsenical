@@ -1,103 +1,34 @@
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=220&section=header&text=MOHSEN%20PEIGHAMI&fontSize=43&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%2F%2F%20SYSTEM%20001&descSize=13&descAlignY=58&animation=fadeIn" />"ENGINEERING DIGITAL EXPERIENCES"
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=220&section=header&text=MOHSEN%20PEIGHAMI&fontSize=43&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%2F%2F%20SYSTEM%20001&descSize=13&descAlignY=58&animation=fadeIn" />
 
-I BUILD. I BREAK. I REBUILD.
+<img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
 
-""GitHub" (https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/mohsenical)
-""Repositories" (https://img.shields.io/badge/REPOSITORIES-181818?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/mohsenical?tab=repositories)
+<br />
 
-</div>---
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Frontend+%26+Backend+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications" />
 
-01 / IDENTITY
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Frontend+%26+Backend+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications" />
 
-$ whoami
+```javascript
+//About Me ....
 
-Name       : Mohsen Peighami
-Role       : Full-Stack Developer
-Core       : JavaScript Ecosystem
-Frontend   : React / Next.js
-Backend    : Node.js / Express
-Databases  : MongoDB / MySQL
-Mindset    : Build > Learn > Improve
-Status     : Always Evolving...
+const response = {
+  status: 202,
+  data: {
+    name: "Mohsen Peighami",
+    birthDay: "16 May",
+    location: "Iran / Urmia",
+    dev: "MERN Stack",
+    skills: {
+      id: 1,
+      fronEnd: ["HTML/CSS", "BootStrap", "tailwind", "JS", "React", ...],
+      backEnd: ["node,js", "express.js", "mongoDb", "mongoose", ...]
+    },
+    disc: "I have been programming for 4 years. And during this time I gained a lot of experience in (UI/UX)"
+  }
+}
+```
 
-I'm a Full-Stack Web Developer passionate about engineering modern digital products.
+<hr />
 
-My focus is on combining elegant interfaces, interactive experiences, efficient backend architectures, and well-structured databases to build reliable web applications.
 
-«Great software is not just written. It's carefully engineered.»
-
----
-
-02 / FRONTEND ENGINEERING
-
-Crafting interfaces. Creating experiences.
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs,threejs,gsap&theme=dark" />
-</p>FRONTEND ECOSYSTEM
-
-Package| Purpose
-Yup| Schema Validation
-Swiper| Touch Sliders & Carousels
-React Toastify| Notifications
-Axios| HTTP Requests
-React Hook Form| Form Management
-
----
-
-03 / BACKEND ENGINEERING
-
-Building systems behind the experience.
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
-</p>BACKEND ECOSYSTEM
-
-Package / Technology| Purpose
-Sequelize| SQL ORM
-Zod| Schema Validation
-Multer| File Upload
-JWT| Authentication
-Bcrypt| Password Hashing
-Mongoose| MongoDB ODM
-Nodemailer| Email Services
-Dotenv| Environment Configuration
-Node.js CLI| Command Line Tools
-
----
-
-04 / DEVELOPMENT ENVIRONMENT
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman&theme=dark" />
-</p>---
-
-05 / GITHUB ANALYTICS
-
-<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohsenical&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF" /><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsenical&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=AAAAAA" /><br/><img width="85%" src="https://streak-stats.demolab.com?user=mohsenical&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" /></div>---
-
-06 / DEVELOPER PHILOSOPHY
-
-<div align="center">THINK DEEPER.
-
-WRITE CLEANER.
-
-BUILD BETTER.
-
-<br/>"01 — SIMPLICITY"
-
-"02 — PERFORMANCE"
-
-"03 — SCALABILITY"
-
-"04 — CONTINUOUS LEARNING"
-
-</div>---
-
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:000000&height=120&section=footer" />MOHSEN PEIGHAMI
-
-"DESIGNED BY LOGIC. POWERED BY CREATIVITY."
-
-Thanks for exploring my digital workspace.
-
-</div>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) 	![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
