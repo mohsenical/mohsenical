@@ -1,31 +1,124 @@
-<h2 align="center">Hi I am Mohsen Peighami Welcome to my page ❤</h2>
 
-<img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
+<div align="center">
+
+# 👋 Hi, I'm Mohsen Peighami
+
+### Full-Stack Web Developer | JavaScript Developer
+
+**Turning Ideas Into Powerful Digital Experiences.**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Frontend+%26+Backend+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications" />
+
+<p>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack_Development-00C853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm **Mohsen Peighami**, a passionate Full-Stack Web Developer focused on building modern, responsive, and scalable web applications.
+
+I enjoy creating beautiful user interfaces, developing interactive experiences, and building powerful backend systems.
+
+- 💻 Frontend & Backend Development
+- ⚛️ React & Next.js Development
+- ⚙️ Node.js & Express.js
+- 🗄️ Database Design & Management
+- 🔐 Authentication & API Development
+- 🎨 Interactive UI/UX Experiences
+- 📚 Always learning and exploring new technologies
+
+---
+
+## 🛠️ Technical Skills
+
+### 🎨 Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs,threejs" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=gsap" />
+</p>
+
+### 📦 Frontend Libraries & Packages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Yup-Validation-4B75A1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Swiper-Slider-6332F6?style=for-the-badge&logo=swiper" />
+  <img src="https://img.shields.io/badge/React_Toastify-Notifications-FFCA28?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Axios-HTTP_Client-671DDF?style=for-the-badge&logo=axios" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-Forms-EC5990?style=for-the-badge" />
+</p>
+
+### ⚙️ Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Sequelize-ORM-52B0E7?style=for-the-badge&logo=sequelize" />
+  <img src="https://img.shields.io/badge/Node.js-CLI-339933?style=for-the-badge&logo=nodedotjs" />
+</p>
+
+### 🔐 Backend Libraries & Packages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Zod-Validation-3E67B1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multer-File_Upload-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT-Authentication-black?style=for-the-badge&logo=jsonwebtokens" />
+  <img src="https://img.shields.io/badge/Bcrypt-Password_Security-338?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dotenv-Environment_Variables-ECD53F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mongoose-MongoDB_ODM-880000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Nodemailer-Email_Service-22A06B?style=for-the-badge" />
+</p>
+
+### 🔧 Tools & Development Environment
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohsenical&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsenical&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br />
 
+<img width="70%" src="https://streak-stats.demolab.com?user=mohsenical&theme=tokyonight&hide_border=true" />
 
-```javascript
-//About Me ....
+</div>
 
-const response = {
-  status: 202,
-  data: {
-    name: "Mohsen Peighami",
-    birthDay: "16 May",
-    location: "Iran / Urmia",
-    dev: "MERN Stack",
-    skills: {
-      id: 1,
-      fronEnd: ["HTML/CSS", "BootStrap", "tailwind", "JS", "React", ...],
-      backEnd: ["node,js", "express.js", "mongoDb", "mongoose", ...]
-    },
-    disc: "I have been programming for 4 years. And during this time I gained a lot of experience in (UI/UX)"
-  }
-}
-```
+---
 
-<hr />
+## 🌐 Connect With Me
 
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) 	![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+<a href="https://github.com/mohsenical">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Keep Coding · Keep Building · Keep Growing**
+
+</div>
