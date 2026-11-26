@@ -1,5 +1,10 @@
 <img width="100%" align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=220&section=header&text=MOHSEN%20PEIGHAMI&fontSize=43&fontColor=ffffff&fontAlignY=38&desc=MERN%20STACK%20DEVELOPER%20%2F%2F%20SYSTEM%20001&descSize=13&descAlignY=58&animation=fadeIn" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/ascii-dark.svg">
+  <img src="/ascii-light.svg" alt="ASCII portrait" width="420">
+</picture>
+
 ```javascript
 //About Me ....
 
@@ -14,6 +19,7 @@ const response = {
       id: 1,
       fronEnd: ["HTML/CSS", "BootStrap", "Tailwind", "JS", "React", "Next", "Three.js"],
       backEnd: ["node,js", "express.js", "mongoDb", "mongoose", "mySQL", "sequelize"]
+botTelegram: ["telegraf", "node-telegram-bot-api"]
     },
     disc: "I have been programming for 4 years. And during this time I gained a lot of experience in (UI/UX)"
   }
